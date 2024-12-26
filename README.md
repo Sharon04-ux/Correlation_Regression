@@ -1,4 +1,12 @@
 # Correlation and regression for data analysis
+
+# exp:03
+
+# Date : 26.10.2024
+
+# Name:SHARON ARUL BHARATHI J.F
+
+# Register No:24005394
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
@@ -21,9 +29,12 @@ If y represents the dependent variable and x the independent variable, this rela
 
 # Program :
 
+developed by:SHARON ARUL BHARATHI J.F
+register no:24005394
+
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
-
-# Result
-
 # Output 
+![280664550-79cf2734-4776-405b-ae0b-b645f23f97c4](https://github.com/user-attachments/assets/b5469732-dab1-462c-aade-cd35e987f39a)
+# Result
+The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
